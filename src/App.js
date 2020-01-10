@@ -30,6 +30,7 @@ render(){
     );
   return (
     <div className="App">
+    <h1>Monster Box</h1>
           <SearchBox 
           placeholder="Search Monster" 
           handleChange = {this.handleChange}
